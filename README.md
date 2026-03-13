@@ -26,8 +26,6 @@ M  =  A⁻¹ · C   where  A⁻¹ = P · (D or T)⁻¹ · P⁻¹
 
 Quick Start
 1. Clone the repository
-bashgit clone https://github.com/<your-username>/matrix-diagonalization-cipher.git
-cd matrix-diagonalization-cipher
 2. Install dependencies
 bashpip install numpy
 3. Run
